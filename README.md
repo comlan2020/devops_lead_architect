@@ -1,5 +1,5 @@
 # devops_lead_architect
-Nice basic project for knowledge test
+project 
 ...............code the following in pulumi (preferably) or terraform...............................................
 
 •	Instance type should be configurable
